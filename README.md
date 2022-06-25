@@ -10,7 +10,7 @@
   
 `Main branch` - For personal use
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/vasus https://github.com/compressorvideoavimade/VIDEOconvertor en-code/VIDEOconvertor/tree/main"> <img src="https://img.shields.io/badge/Github-main%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
   
 `Public branch` - For your channel
